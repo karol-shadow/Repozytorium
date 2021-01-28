@@ -1,0 +1,12 @@
+28.01.2021 20:02:44	This log contains information about the import operation of the script 'Products.sql' into project 'DatabaseProject' on computer 'DESKTOP-GABK9EV' by user'Karol.
+28.01.2021 20:02:44	Started importing file: C:\Users\Karol\Desktop\shop\DatabaseProject\DatabaseProject\Products.sql 
+28.01.2021 20:02:44	File name C:\Users\Karol\Desktop\shop\DatabaseProject\DatabaseProject\Products.sql (size: 129)
+28.01.2021 20:02:44	Parsing import script
+28.01.2021 20:02:44	Total number of batches in script: 1
+28.01.2021 20:02:44	Total number of statements in script: 1
+28.01.2021 20:02:44	The script was successfully imported into the project.
+28.01.2021 20:02:44	Analyzing schema objects...
+28.01.2021 20:02:44	Scanning project for duplicate elements
+28.01.2021 20:02:44	Finished duplicate element processing
+28.01.2021 20:02:44	A summary of the import was saved to the following location: C:\Users\Karol\Desktop\shop\DatabaseProject\DatabaseProject\Import Script Logs\Products_sql_20210128070244.log
+28.01.2021 20:02:44	Click Finish to continue...

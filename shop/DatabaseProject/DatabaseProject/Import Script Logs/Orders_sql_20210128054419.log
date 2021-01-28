@@ -1,0 +1,12 @@
+28.01.2021 18:44:19	This log contains information about the import operation of the script 'Orders.sql' into project 'DatabaseProject' on computer 'DESKTOP-2A4QGR5' by user'patry.
+28.01.2021 18:44:19	Started importing file: C:\Users\patry\source\repos\DatabaseProject\DatabaseProject\Orders.sql 
+28.01.2021 18:44:19	File name C:\Users\patry\source\repos\DatabaseProject\DatabaseProject\Orders.sql (size: 215)
+28.01.2021 18:44:19	Parsing import script
+28.01.2021 18:44:19	Total number of batches in script: 1
+28.01.2021 18:44:19	Total number of statements in script: 1
+28.01.2021 18:44:19	The script was successfully imported into the project.
+28.01.2021 18:44:19	Analyzing schema objects...
+28.01.2021 18:44:19	Scanning project for duplicate elements
+28.01.2021 18:44:19	Finished duplicate element processing
+28.01.2021 18:44:19	A summary of the import was saved to the following location: C:\Users\patry\source\repos\DatabaseProject\DatabaseProject\Import Script Logs\Orders_sql_20210128054419.log
+28.01.2021 18:44:19	Click Finish to continue...
